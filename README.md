@@ -32,8 +32,19 @@
 
 ### Collection
 
-* Name - Author - https://github.com/axrd/datasets
+* datasets - axrd - https://github.com/axrd/datasets
+        - ames (cleaned)
+        - gdp
+        - gdpmessy
+        - gdpmessy2
+        - HR_comma_sep
+        - mpg
+        - sales_data
+        - tipdata
+        
 * Name - Author - URL
+
+
 
 
 <!-- CONTRIBUTING -->
@@ -53,7 +64,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-* Distributed under the MIT License. https://github.com/tinamgonzales44/Basic-GUI-Application-Window-using-Tkinter/blob/main/LICENSE
+* Distributed under the MIT License. https://github.com/tinamgonzales44/dataset-collection/blob/main/LICENSE
 
 
 
@@ -63,6 +74,6 @@ Contributions are what make the open source community such an amazing place to b
 
 * Tina Marie Gonzales: [@tinamgonzales44](https://twitter.com/tinamgonzales44) - tinamgonzales44@gmail.com
 
-* Project Link: https://github.com/tinamgonzales44/Basic-GUI-Application-Window-using-Tkinter/blob/main/BasicGUIWindowApplication.py
+* Project Link: https://github.com/tinamgonzales44/dataset-collection
 
 
