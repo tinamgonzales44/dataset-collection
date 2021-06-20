@@ -42,8 +42,15 @@
         - sales_data
         - tipdata
         
-* Name - Author - URL
-
+* datasets - plotly - https://github.com/plotly/datasets
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
 
 
 
