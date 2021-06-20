@@ -34,7 +34,7 @@
 
 * datasets - axrd - https://github.com/axrd/datasets
         - ames (cleaned)
-        - gdp
+        - gdp (cleaned)
         - gdpmessy
         - gdpmessy2
         - HR_comma_sep
@@ -42,7 +42,7 @@
         - sales_data
         - tipdata
         
-* datasets - plotly - https://github.com/plotly/datasets
+* name - owner - URL
         - 
         - 
         - 
